@@ -1,0 +1,12 @@
+body{
+	background: wheat;
+	/*font-family: ;*/
+	font-weight: 900;
+}
+span{
+	color: red;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
